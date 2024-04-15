@@ -1,0 +1,33 @@
+
+        *{
+            background-color: rgb(194, 124, 55);
+           
+        }
+        .container{
+            display: flex;
+            column-gap: 40px;
+        }
+
+        .h1{
+            color: aqua;
+            background-color: red;
+            border: 2px solid;
+            height: 320px;
+            width: 300px;
+        padding-top: 10px;
+        padding-left: 10px;
+        text-align: center;
+       
+            
+        }
+        .h2{
+            color: aqua;
+            background-color: rgb(122, 93, 93);
+            border: 2px solid;
+            height: 320px;
+            width: 400px;
+            overflow: scroll;
+            
+        }
+    
+ 
